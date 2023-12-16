@@ -8,7 +8,7 @@ I'm a 1st year student at Epitech Paris. I build all my coding projects from the
 
 ---
 
-### Languages and tools
+### 🧰 Languages and tools
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
