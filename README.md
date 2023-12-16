@@ -14,6 +14,11 @@ email: arthur.lazaro@epitech.eu
 <br>
 
 ---
+### 🏢 Organization
+
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/7068904?s=280&v=4" /> Epitech <br>
+
+---
 
 ### 🧰 Languages and tools
 
