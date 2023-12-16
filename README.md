@@ -11,6 +11,13 @@ To get more information on my school, check the link here: www.epitech.eu
 
 ---
 
+### ☎️ Contact
+
+email: arthur.lazaro@epitech.eu
+<br>
+
+---
+
 ### 🧰 Languages and tools
 
 
