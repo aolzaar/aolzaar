@@ -3,7 +3,7 @@
 <br>
 <img align="left" width="250px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Epitech.png" />
 I'm a 1st year student at Epitech Paris. I build all my coding projects from the ground up and I'm trying to one day, hopefully, work on robotics. <br>
-To get more information on my school, check the link here: www.epitech.eu
+To get more information on my school, check the link here: www.epitech.eu (it's in french)
 <br> <br> <br>
 
 ---
