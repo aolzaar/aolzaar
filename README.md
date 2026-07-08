@@ -42,7 +42,3 @@ email: arthur.lazaro@epitech.eu <br>
 ### IDE
 <img align="left" alt="VsCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="emacs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg" />
-<br>
-
----
-[![aolzaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aolzaar&show_icons=true&theme=transparent)](https://github.com/aolzaar/github-readme-stats)
