@@ -2,7 +2,7 @@
 
 <br>
 <img align="left" width="250px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Epitech_Official_Logo.png" />
-I'm a 2nd year student at Epitech Paris. I build all my coding projects from the ground up and feel most comfortable with C and C++.
+I'm a 3rd year student at Epitech Paris. I build all my coding projects from the ground up and feel most comfortable with C and C++.
 <br> <br>
 To get more information on my school, check the link here: www.epitech.eu (it's in french)
 <br> <br>
